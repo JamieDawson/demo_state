@@ -1,0 +1,28 @@
+[
+  {
+    "apihost": "https://apigcp.nimbella.io",
+    "namespace": "jamierob-hzoysjqazdd",
+    "packageVersions": {},
+    "actionVersions": {},
+    "webHashes": {
+      "web\\asset-manifest.json": "eee2fd9b722037b8fffded4708c3fa6f08fe07e670a34ec4c121e9fcaf448972",
+      "web\\favicon.ico": "ffc65885a2121141440d345ef5927c4c2917d95b5b2913b7fa8467c95e15120b",
+      "web\\index.html": "217a569c8e757b82b28724ac7db25031bb0995179aa9fa53f2cb22ace615a00f",
+      "web\\logo192.png": "c386396ec70db3608075b5fbfaac4ab1ccaa86ba05a68ab393ec551eb66c3e00",
+      "web\\logo512.png": "9ea4f4da7050c0cc408926f6a39c253624e9babb1d43c7977cd821445a60b461",
+      "web\\manifest.json": "33fdb99cc2cd3ad8e1815b18b7005eb3f58048990d80ee7c73aed28ab69a4e19",
+      "web\\precache-manifest.19b8b02308735b63c326a2cae7a22daa.js": "f607db20999e01941e18cb7262e39e24553c442030ad649ad81a367da2263b15",
+      "web\\robots.txt": "e5ab0d231eeb01b4a982d1c79a6729cac9797ad15a69247e4f28ba6afc149b4c",
+      "web\\service-worker.js": "b0dd245a5e5ba39481ed37fd2b5e2076c93b3faf24741fa19e063851270e48da",
+      "web\\static\\js\\2.2c0df106.chunk.js": "be4672effe51f38a7ea51180d334e9e4638373ec410c5d23de38c4d5fce6bb36",
+      "web\\static\\js\\2.2c0df106.chunk.js.LICENSE.txt": "46f37d637c7c42ea6193c9f4b4cefe11af24e1280cc381602fbf1219e60ed038",
+      "web\\static\\js\\2.2c0df106.chunk.js.map": "ecaedb130764e380fb4e3321d67981ef27872204673841a58d085d9c338b0a25",
+      "web\\static\\js\\main.191cbf3d.chunk.js": "1879ebd58f963eb3a48f9ccbdcdc3cf422f4b8fdcffd49a77cd718654645ce48",
+      "web\\static\\js\\main.191cbf3d.chunk.js.map": "177a7554d436eeca651a7ea20a1e0357e233c038515cfe005ee333b1454f12f1",
+      "web\\static\\js\\runtime-main.8a298d7d.js": "007dbb5a70e9b501a0d8f5064588f0a7390c5e3e917dff922d42564141bfcfb2",
+      "web\\static\\js\\runtime-main.8a298d7d.js.map": "6eb5863440f8af9dce3983a178785c7bcc081fe399a47b428736d853a23725cc",
+      "web\\static\\css\\main.523f09c5.chunk.css": "2835b90d6085b98a63113cc34e5a4301b2316ff6fb1354ce938cf7aed6d6ed2a",
+      "web\\static\\css\\main.523f09c5.chunk.css.map": "b2eca8f38cc3d14811e65ce1a9ba57a17e6391e10be496fe79e6de8f0af1e3e3"
+    }
+  }
+]
